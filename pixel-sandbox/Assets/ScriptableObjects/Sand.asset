@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9417c5752d024074e94b6988f69f9b18, type: 3}
+  m_Name: Sand
+  m_EditorClassIdentifier: 
+  Name: Sand
+  Color:
+    serializedVersion: 2
+    rgba: 4286051327
+  State: 0
+  IsSolid: 1
+  IsLiquid: 0
+  IsGas: 0
+  IsStatic: 0
+  UseRigidGravity: 0
+  UsePowderGravity: 1
+  UseLiquidGravity: 0
+  UseGasGravity: 0
+  Corrode: 0
+  CorrodeSlowModifier: 7
+  SelfDecay: 0
+  DecaySlowModifier: 0
+  DecayInto: {fileID: 0}
+  MorphOnCollision: 0
+  NumInteractions: 2
+  MorphSlowMod: 0500000007000000
+  MorphCollision:
+  - {fileID: 0}
+  - {fileID: 0}
+  MorphInto:
+  - {fileID: 0}
+  - {fileID: 0}
+  GoThrough: []
+  Destructible: 1
+  FloatSlowModifier: 10
