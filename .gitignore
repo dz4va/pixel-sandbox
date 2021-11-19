@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+pixel-sandbox/Library
+pixel-sandbox/Logs
+pixel-sandbox/Temp
